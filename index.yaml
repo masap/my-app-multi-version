@@ -6,6 +6,25 @@ entries:
       catalog.cattle.io/namespace: cattle-ui-plugin-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux, windows
+      catalog.cattle.io/rancher-version: '>= 2.10.0'
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: plugins
+      catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
+    apiVersion: v2
+    appVersion: 105.0.0-up1.0.0
+    created: "2025-01-08T05:36:21.314597944Z"
+    description: my-app-multi-version plugin
+    digest: 14d91375bd2d698effb8bc2c89feb5748c791679bd05699364b71450766cfe1d
+    name: my-app-multi-version
+    type: application
+    urls:
+    - assets/my-app-multi-version/my-app-multi-version-105.0.0-up1.0.0.tgz
+    version: 105.0.0-up1.0.0
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/namespace: cattle-ui-plugin-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux, windows
       catalog.cattle.io/rancher-version: '>= 2.9.0 < 2.10.0'
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
@@ -58,4 +77,4 @@ entries:
     urls:
     - assets/my-app-multi-version/my-app-multi-version-103.0.0-up1.0.0.tgz
     version: 103.0.0-up1.0.0
-generated: "2025-01-08T05:04:32.408264561Z"
+generated: "2025-01-08T05:36:21.313800554Z"
