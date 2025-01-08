@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello Rancher 2.8!</h1>
+  <h1>Hello Rancher 2.9!</h1>
 </template>
 
 <script>
