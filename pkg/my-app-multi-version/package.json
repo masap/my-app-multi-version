@@ -1,7 +1,7 @@
 {
   "name": "my-app-multi-version",
   "description": "my-app-multi-version plugin",
-  "version": "0.1.0",
+  "version": "104.0.0-up1.0.0",
   "private": false,
   "rancher": {
     "annotations": {
