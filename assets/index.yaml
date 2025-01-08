@@ -12,9 +12,9 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 105.0.0-up1.0.0
-    created: "2025-01-08T05:36:21.314597944Z"
+    created: "2025-01-08T05:42:14.426586196Z"
     description: my-app-multi-version plugin
-    digest: 14d91375bd2d698effb8bc2c89feb5748c791679bd05699364b71450766cfe1d
+    digest: d89fc14b0b83f846320824702f4f4136a4ed5bbb969655fb158e1514c7de4c2e
     name: my-app-multi-version
     type: application
     urls:
@@ -77,4 +77,4 @@ entries:
     urls:
     - assets/my-app-multi-version/my-app-multi-version-103.0.0-up1.0.0.tgz
     version: 103.0.0-up1.0.0
-generated: "2025-01-08T05:36:21.313800554Z"
+generated: "2025-01-08T05:42:14.426036696Z"
